@@ -1,4 +1,4 @@
-# Hi there, I'm David Wong! 👋
+# Hi there, I'm David! 👋
 
 ### 🚀 Junior Full Stack Developer & Vibe Coder | AI Engineer | Solution Consultant
 
