@@ -2,7 +2,7 @@
 
 ### 🚀 Junior Full Stack Developer & Vibe Coder | AI Engineer | Solution Consultant
 
-I'm a developer and solution consultant interested in building useful applications across web, mobile, and AI. I hold a master's degree in Artificial Intelligence and Big Data Computing from a Hong Kong university.
+I'm a developer and solution consultant interested in building useful applications across web, mobile, and AI. I hold a master's degree in Artificial Intelligence and Big Data Computing from a Hong Kong university ranked 50th globally in the QS World University Rankings 2027.
 
 ---
 
@@ -10,8 +10,8 @@ I'm a developer and solution consultant interested in building useful applicatio
 
 | Web & Backend | Data & Databases | Mobile & Interactive | AI & Security |
 | --- | --- | --- | --- |
-| Vue.js · AngularJS · React · TypeScript | MySQL · SQLite · PostgreSQL | Java · Android Studio · Swift | Prompt engineering · AI vision |
-| Bootstrap · Tailwind CSS · Express.js | MongoDB · Redis · Firebase · Spark | Unreal Engine | LLM fine-tuning · Cryptography · Blockchain · Solidity |
+| Vue.js · AngularJS · React · TypeScript | MySQL · SQLite · PostgreSQL | Java · Android Studio · Swift | Prompt engineering · AI vision · Jev & Kev decision models |
+| Bootstrap · Tailwind CSS · Express.js | MongoDB · Redis · Firebase · Spark | Unreal Engine | LLM fine-tuning · oMLX · Ollama · vLLM · Cryptography · Blockchain · Solidity |
 
 ---
 
